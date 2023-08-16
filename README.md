@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raymond Mawina</h1>
 <h3 align="center">A passionate software developer from South Africa</h3>
 
-- 🌱 I’m currently learning Python, django, flask, fast API and data enginnering concepts
+- 🌱 I’m currently learning Python, Django, flask, fast API and data engineering concepts(docker, Postgres, GCP, GCP on Terraform) Workflow Orchestration(Data lake, Prefect, ETL with GCP & Prefact, workflows), Data Warehousing(Big Query, Partitioning and clustering, Big Query best practices, Big Query + AirFlow, BigQuery Machine Learning), Analytic Engineering(Basics, data build too(dbt), BigQuery and dbt, Postgres and dbt, dbt models, testing and documenting, Deploying to the cloud and locally, visualizing data with metabase and google data studio), Batch processing(basics, Spark, Spark Dataframes, Spark SQL and QroupBy and joins) and Streaming(Kafka, schemas(avro), Kafka streams, Kafka streams, Kafka connect ))
 
 - 📫 How to reach me **rmawina@gmail.com**
 
