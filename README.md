@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raymond Mawina</h1>
-<h3 align="center">Just a boy learning software</h3>
+<h3 align="center">Just a human learning software</h3>
 <h3 align="center">Always ready to learn a new concept</h3>
 <h3 align="center">I love helping others and seeing them grow</h3>
 <h3 align="center">I am super shy and but bit vocal</h3>
