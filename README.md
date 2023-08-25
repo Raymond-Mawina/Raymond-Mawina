@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning the following:
   1. Backend: Python basics,SqlAlchemy,Alembic(migrations), Flask(API's + Web), Django(API's + Web)
-  1. Web Dev: TypeScript, Angular, NextJs and SSRC.
 - 📫 How to reach me **rmawina@gmail.com**
 
 - ⚡ Fun fact **I love watching MMA and wrestling. I like reading manga. I like gardening.**
